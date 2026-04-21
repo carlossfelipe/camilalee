@@ -1,0 +1,114 @@
+/* Configurações Globais */
+body {
+    background-color: #121212 !important; /* Preto da imagem */
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0.5px;
+}
+
+.gold-text1 {
+    color: #E5D1B0 !important; /* Dourado padrão */
+}
+
+.gold-text2 {
+    color: #C5A059 !important; /* Dourado padrão */
+}
+
+
+
+.section-dark {
+}
+
+/* Utilitários de Texto */
+.ls-5 { letter-spacing: 5px; }
+.ls-3 { letter-spacing: 3px; }
+.ls-2 { letter-spacing: 2px; }
+
+.text-justify {
+    text-align: justify;
+}
+
+/* Hero Section */
+.hero-section {
+    height: 90vh;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('../assets/Logo/telainicial_banner_semBug122.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+/*Noivas*/
+
+.noivas{
+  background-color: #2C2C2C;
+  
+}
+/* Botões */
+
+.btn-link-gold{
+    border: 1px solid #E5D1B0;
+    color: #121212;
+    transition: 0.3s;
+    align-items:end;
+    background-color: #E5D1B0;
+}
+
+.btn-outline-gold {
+    border: 1px solid #C5A059;
+    color: #E5D1B0;
+    transition: 0.3s;
+}
+
+.btn-outline-gold:hover {
+    background-color: #E5D1B0;
+    color: #000;
+}
+
+.btn-gold {
+    background-color: #E5D1B0;
+    color: #000;
+    border: none;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+.btn-gold:hover {
+    background-color: #b8962d;
+    color: #000;
+}
+
+/* Navbar */
+.navbar {
+    background-color: rgba(0,0,0,0.8);
+    backdrop-filter: blur(5px);
+}
+
+.nav-link {
+    color: #fff !important;
+    font-weight: 300;
+    transition: 0.3s;
+}
+
+.nav-link:hover {
+    color: #d4af37 !important;
+}
+
+/* Imagens */
+.img-fluid {
+    filter: grayscale(20%);
+    transition: 0.4s;
+}
+
+.img-fluid:hover {
+    filter: grayscale(0%);
+}
+
+.lead-text {
+  color: #E5D1B0;
+}
+.quote {
+    font-size: 60px;
+}
+
+
+.text-footer {
+    color: #fff;
+}
