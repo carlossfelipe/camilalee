@@ -1,3 +1,5 @@
+
+
 /* Configurações Globais */
 body {
     background-color: #121212 !important; /* Preto da imagem */
@@ -33,12 +35,14 @@ body {
     background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('../assets/Logo/telainicial_banner_semBug122.jpg');
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 /*Noivas*/
 
 .noivas{
-  background-color: #2C2C2C;
+  background-color: #1e1e1e;
   
 }
 /* Botões */
@@ -112,3 +116,47 @@ body {
 .text-footer {
     color: #fff;
 }
+
+
+/* Carrossel noivas*/
+
+
+.carousel-wrapper {
+    overflow: hidden;
+    width: 100%;
+    display: flex;
+}
+
+.carousel-track {
+    display: flex;
+    gap: 20px;
+    /* Calcula a animação: 20s é a velocidade, linear é para não parar */
+    animation: scroll 25s linear infinite;
+}
+
+.carousel-track img {
+    width: 350px; /* Defina um tamanho fixo para estabilidade */
+    height: 450px;
+    object-fit: cover;
+    flex-shrink: 0;
+    border-radius: 10px;
+}
+
+/* Pausa o carrossel quando o usuário passa o mouse */
+.carousel-track:hover {
+    animation-play-state: paused;
+}
+
+@keyframes scroll {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        /* Move até a metade do conteúdo duplicado */
+        transform: translateX(calc(-50% - 10px)); 
+    }
+}
+
+
+/*Transição suave apos banner*/
+
