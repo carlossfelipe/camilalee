@@ -12,8 +12,9 @@ O site tem como finalidade centralizar o portfólio da profissional, fortalecer 
 
 ## Evolução do Projeto
 
-Na Sprint 2, o projeto avançou no levantamento e validação de requisitos, sendo realizada uma entrevista com a cliente para compreender suas necessidades, expectativas e preferências em relação ao site. Além disso, foi aplicado um questionário no Google Forms com o objetivo de validar o protótipo (MVP) e coletar feedback sobre a organização, identidade visual e possíveis melhorias. A partir das respostas obtidas, foram identificadas oportunidades de evolução, como a inclusão de novas funcionalidades e ajustes na experiência do usuário. Paralelamente, houve a organização das tarefas no Trello e a realização de melhorias iniciais no protótipo desenvolvido no Figma, buscando maior alinhamento com a identidade profissional da cliente.
+Nesta etapa, o projeto avançou no levantamento, análise e validação de requisitos, sendo realizada uma entrevista com a cliente para compreender suas necessidades, expectativas e preferências em relação ao site. Além disso, foi aplicado um questionário no Google Forms com o objetivo de validar o protótipo (MVP) e coletar feedback sobre organização, identidade visual e usabilidade.
 
+A partir das respostas obtidas, foram definidos os requisitos funcionais, como exibição de portfólio segmentado, apresentação das informações profissionais, galerias de mídia e formulário de contato integrado ao WhatsApp, e os requisitos não funcionais, relacionados à usabilidade, desempenho, responsividade, segurança e padronização visual. Também foram identificadas oportunidades de melhoria, como inclusão de novas funcionalidades e ajustes na experiência do usuário.
 **Links do Projeto**
 
 Documentação do Projeto
