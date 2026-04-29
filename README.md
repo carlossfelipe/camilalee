@@ -12,9 +12,8 @@ O site tem como finalidade centralizar o portfólio da profissional, fortalecer 
 
 ## Evolução do Projeto
 
-Nesta etapa, o projeto avançou no levantamento, análise e validação de requisitos, sendo realizada uma entrevista com a cliente para compreender suas necessidades, expectativas e preferências em relação ao site. Além disso, foi aplicado um questionário no Google Forms com o objetivo de validar o protótipo (MVP) e coletar feedback sobre organização, identidade visual e usabilidade.
+Durante a Sprint 4, o projeto avançou significativamente na modelagem e documentação do sistema, com foco na definição e organização dos casos de uso. Foram elaborados o diagrama de casos de uso e as descrições detalhadas de cada funcionalidade, incluindo fluxos principais, alternativos e de exceção, além da identificação dos atores e das condições de execução. Também foi realizada a relação entre os requisitos funcionais e os respectivos casos de uso, garantindo que todas as funcionalidades previstas estivessem devidamente representadas e alinhadas com as necessidades levantadas. Além disso, ocorreu a validação dos casos de uso com base nos protótipos desenvolvidos, assegurando a correspondência entre as funcionalidades do sistema e as telas propostas. Por fim, a documentação do projeto foi revisada e atualizada, promovendo maior consistência e clareza na definição da solução.
 
-A partir das respostas obtidas, foram definidos os requisitos funcionais, como exibição de portfólio segmentado, apresentação das informações profissionais, galerias de mídia e formulário de contato integrado ao WhatsApp, e os requisitos não funcionais, relacionados à usabilidade, desempenho, responsividade, segurança e padronização visual. Também foram identificadas oportunidades de melhoria, como inclusão de novas funcionalidades e ajustes na experiência do usuário.
 **Links do Projeto**
 
 Documentação do Projeto
