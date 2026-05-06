@@ -3,11 +3,11 @@ document.addEventListener("DOMContentLoaded", () => {
     
     // 1. Lista das suas fotos
     const photos = [
-        "../src/assets/Noivas/Alineamp_Gabriel-141_Original.jpg",
-        "../src/assets/Noivas/NoivaBrinco.jpg",
-        "../src/assets/Noivas/IMG_7068.JPG",
-        "../src/assets/Noivas/Aline_amp_Gabriel-156_Original.jpg",
-        "../src/assets/Noivas/noiva_para_esquerda.jpg"
+        "/CrocodilaLee/frontend/src/assets/Noivas/IMG_7068.JPG",
+        "/CrocodilaLee/frontend/src/assets/Noivas/Aline_amp_Gabriel-156_Original.jpg",
+        "/CrocodilaLee/frontend/src/assets/Noivas/NoivaBrinco.jpg",
+        "/CrocodilaLee/frontend/src/assets/Noivas/Alineamp_Gabriel-141_Original.jpg",
+        "/CrocodilaLee/frontend/src/assets/Noivas/noiva_para_esquerda.jpg"
     ];
 
     // 2. Função para embaralhar (Fisher-Yates Shuffle)
