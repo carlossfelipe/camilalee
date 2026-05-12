@@ -1,9 +1,11 @@
-import './Navbar.css'
+import "./Navbar.css";
+import banner from "../assets/Logo/Mask_group-removebg-preview.png";
 
 function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-transparent fixed-top">
       <div className="container">
+        <img src={banner} alt="" style={{ width: "4rem" }} />
         <button
           className="navbar-toggler"
           type="button"
@@ -54,4 +56,4 @@ function Navbar() {
   );
 }
 
-export default Navbar
+export default Navbar;

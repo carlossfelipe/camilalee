@@ -6,11 +6,13 @@ import HomeCinema from "./components/HomeCinema";
 import HomeTransforma from "./components/HomeTransforma"
 import Footer from "../../components/Footer";
 import HomeDepoimentos from "./components/HomeDepoimentos";
+
+import bannerHome from '../../assets/Logo/telainicial_banner_semBug122.jpg';
 function Home() {
   return (
     <>
       <Navbar />
-      <HomeHeader />
+      <HomeHeader banner = {bannerHome} />
       <HomePresentation />
       <HomeNoivas />
       <HomeCinema/>
