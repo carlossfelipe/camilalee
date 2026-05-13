@@ -8,6 +8,7 @@ import Footer from "../../components/Footer";
 import HomeDepoimentos from "./components/HomeDepoimentos";
 
 import bannerHome from '../../assets/Logo/telainicial_banner_semBug122.jpg';
+
 function Home() {
   return (
     <>

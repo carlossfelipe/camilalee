@@ -32,9 +32,10 @@ body {
 /* Hero Section */
 .hero-section {
     height: 100vh;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat  !important;
+    background-size: cover !important;
    
 }
 
