@@ -1,4 +1,4 @@
-# Projeto Integrador – Website Crocodilo Lee
+# Projeto Integrador – Website Camila Lee
 
 ## Sobre o Projeto
 
@@ -12,8 +12,11 @@ O site tem como finalidade centralizar o portfólio da profissional, fortalecer 
 
 ## Evolução do Projeto
 
-Durante a Sprint 5, o projeto avançou na consolidação e refinamento da documentação e da solução proposta. Foram realizadas atualizações na documentação geral do sistema, incluindo a validação dos casos de uso em relação aos protótipos desenvolvidos, garantindo correspondência entre funcionalidades, navegação e telas do sistema. Também foi incluída a prototipação completa da solução proposta para este semestre, contemplando as páginas principais do website e a organização visual das funcionalidades implementadas. Além disso, foram criados os apêndices contendo os protótipos desenvolvidos no primeiro semestre, com o objetivo de manter o histórico visual e evolutivo do projeto. Por fim, houve revisão e atualização dos materiais do repositório, assegurando maior consistência entre documentação, protótipos e requisitos definidos ao longo do desenvolvimento.
+Durante a Sprint 6, o projeto avançou na atualização e estruturação da documentação técnica relacionada ao banco de dados da aplicação. Foram desenvolvidas as modelagens de dados do sistema, incluindo a elaboração do MER (Modelo Entidade Relacionamento), permitindo a representação das entidades, atributos e relacionamentos necessários para o funcionamento da solução proposta.
 
+Além disso, foi construído o Modelo Físico do Banco de Dados, contemplando a definição das tabelas, campos, tipos de dados e relacionamentos utilizados na implementação da estrutura do sistema. Também foram elaborados os dicionários de dados, descrevendo detalhadamente cada atributo presente no banco, suas funcionalidades e características, contribuindo para maior organização, padronização e compreensão da estrutura de dados do projeto.
+
+Essas atualizações fortalecem a documentação técnica do sistema e auxiliam no processo de desenvolvimento, manutenção e futuras implementações da aplicação.
 **Links do Projeto**
 
 Documentação do Projeto
