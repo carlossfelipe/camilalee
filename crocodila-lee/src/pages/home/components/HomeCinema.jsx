@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import cinema1 from '../../../assets/Cinema/ae328d6e-a15c-40b8-b739-45bc088aaf03.jpg'
 import cinema2 from "../../../assets/Cinema/6391746c-a7ba-44b0-ad3f-963a7bc41741.jpg"
 
@@ -26,9 +27,9 @@ function HomeCinema() {
           <span className="gold-text1">
             Caracterização e efeitos para produções cinematográficas
           </span>
-          <a href="#" className="btn btn-link-gold mb-3">
+          <Link to="/audiovisual" className="btn btn-link-gold mb-3">
             Ver mais trabalhos →
-          </a>
+          </Link>
         </div>
       </div>
     </section>

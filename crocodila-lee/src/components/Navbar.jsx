@@ -1,5 +1,6 @@
 import "./Navbar.css";
 import banner from "../assets/Logo/Mask_group-removebg-preview.png";
+import { Link } from "react-router-dom";
 
 function Navbar() {
   return (
@@ -20,34 +21,39 @@ function Navbar() {
         >
           <ul className="navbar-nav">
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <Link to="/" className="nav-link">
                 INÍCIO
-              </a>
+              </Link>
             </li>
+
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <Link to="/noivas" className="nav-link">
                 NOIVAS
-              </a>
+              </Link>
             </li>
+
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <Link to="/audiovisual" className="nav-link">
                 AUDIOVISUAL
-              </a>
+              </Link>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">
+
+            <li className="nav-item">
+              <Link to="/servicos" className="nav-link">
                 OUTROS SERVIÇOS
-              </a>
+              </Link>
             </li>
+
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <Link to="/sobre" className="nav-link">
                 SOBRE MIM
-              </a>
+              </Link>
             </li>
+
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <Link to="/contato" className="nav-link">
                 CONTATO
-              </a>
+              </Link>
             </li>
           </ul>
         </div>

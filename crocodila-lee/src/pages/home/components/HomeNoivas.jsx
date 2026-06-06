@@ -1,4 +1,5 @@
 import { useMemo } from "react";
+import { Link } from "react-router-dom";
 
 import foto1 from "../../../assets/Noivas/IMG_7068.JPG";
 import foto2 from "../../../assets/Noivas/Aline_amp_Gabriel-156_Original.jpg";
@@ -37,9 +38,9 @@ function HomeNoivas() {
           <span className="gold-text1">
             Beleza atemporal para o dia mais inesquecível
           </span>
-          <a href="#" className="btn btn-link-gold mb-3">
+          <Link to="/noivas" className="btn btn-link-gold mb-3">
             Ver mais fotos →
-          </a>
+          </Link>
         </div>
       </div>
     </section>
