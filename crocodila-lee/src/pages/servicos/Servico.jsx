@@ -8,11 +8,11 @@ import ServicoHeader from "./components/ServicoHeader";
 // Substitua pelos caminhos reais das suas imagens
 import banner from "../../assets/Logo/outrosservicos_banner.jpg"
 import image0 from "../../assets/Servico/10-DSC05030.jpeg";
-import image1 from "../../assets/Servico/10-DSC05030.jpeg";
-import image2 from "../../assets/Servico/10-DSC05030.jpeg";
-import image3 from "../../assets/Servico/10-DSC05030.jpeg";
-import image4 from "../../assets/Servico/10-DSC05030.jpeg";
-import image5 from "../../assets/Servico/10-DSC05030.jpeg";
+import image1 from "../../assets/Servico/17-DSC05172.jpeg";
+import image2 from "../../assets/Servico/29-DSC05138.jpeg";
+import image3 from "../../assets/Servico/796c4ff7-d1ae-44e1-a1ba-299aa1f0b182.jpg";
+import image4 from "../../assets/Servico/FernandaeCelso-lambuze-3.jpg";
+import image5 from "../../assets/Servico/FernandaeCelso-lambuze-54.jpg";
 
 export default function Portfolio() {
   const categories = [
