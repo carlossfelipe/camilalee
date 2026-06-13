@@ -45,7 +45,7 @@ function Navbar() {
             </li>
 
             <li className="nav-item">
-              <Link to="/sobre" className="nav-link">
+              <Link to="/#ela-transforma" className="nav-link">
                 SOBRE MIM
               </Link>
             </li>
