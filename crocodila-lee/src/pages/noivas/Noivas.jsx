@@ -1,5 +1,5 @@
 import Footer from "../../components/Footer";
-import Navbar from "../../components/navbar";
+import Navbar from "../../components/Navbar";
 import NoivasHeader from "./components/NoivasHeader";
 import NoivasSection from "./components/NoivasSection";
 import bannerNoivas from "../../assets/Logo/noiva_banner.jpg";

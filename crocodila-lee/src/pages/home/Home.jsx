@@ -1,4 +1,4 @@
-import Navbar from "../../components/navbar";
+import Navbar from "../../components/Navbar";
 import HomeHeader from "./components/HomeHeader";
 import HomeNoivas from "./components/HomeNoivas";
 import HomePresentation from "./components/HomePresentation";

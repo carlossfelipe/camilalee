@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Container, Row, Col, Form, Button } from "react-bootstrap";
 import { FaWhatsapp, FaEnvelope, FaInstagram } from "react-icons/fa";
 import { FiArrowUpRight } from "react-icons/fi";
-import Navbar from "../../components/navbar";
+import Navbar from "../../components/Navbar";
 import "./Contato.css"; // Arquivo para os estilos de cores e espaçamentos específicos
 
 const Contato = () => {

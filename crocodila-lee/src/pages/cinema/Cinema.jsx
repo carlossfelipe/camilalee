@@ -1,5 +1,5 @@
 import Footer from "../../components/Footer";
-import Navbar from "../../components/navbar";
+import Navbar from "../../components/Navbar";
 import CinemaHeader from "./components/CinemaHeader";
 import CinemaSection from "./components/CinemaSection";
 import banner from "../../assets/Logo/audiovisual_banner.jpg";

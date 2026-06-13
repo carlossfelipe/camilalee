@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col, Card } from "react-bootstrap";
-import Navbar from "../../components/navbar";
+import Navbar from "../../components/Navbar";
 import Footer from "../../components/Footer";
 import VoltarParaCima from "../../components/VoltarParaCima";
 import ServicoHeader from "./components/ServicoHeader";
