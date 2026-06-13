@@ -34,7 +34,7 @@ const Contato = () => {
         {/* Título de Destaque */}
         <Row className="mb-5">
           <Col lg={8}>
-            <h1 className="display-5 gold-text2 font-weight-bold text-uppercase mb-3 tracking-wide">
+            <h1 className="display-5 gold-text2 font-weight-bold text-uppercase mb-3 tracking-wide mt-5">
               Vamos eternizar a sua <br /> própria narrativa
             </h1>
                 <p className="lead-text lh-lg fw-light mt-4 mt-md-0 me-md-4 mb-5 text-justify max-w-xl ">
