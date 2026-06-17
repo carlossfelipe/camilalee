@@ -16,7 +16,6 @@ function Home() {
       <HomeHeader banner = {bannerHome} />
       <HomePresentation />
       <HomeNoivas />
-      <HomeCinema/>
       <HomeTransforma/>
       <HomeDepoimentos/>
       <Footer/>

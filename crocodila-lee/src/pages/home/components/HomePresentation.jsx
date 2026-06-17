@@ -8,7 +8,7 @@ function HomePresentation() {
         <div className="row align-items-center">
           <div className="col-md-5 text-center pe-md-5">
             <h2 className="gold-text1 fw-bold mb-4 ls-2 reveal-effect">
-              ELA TRANSFORMA IDEIA EM PRESENÇA.
+              TRANSFORMAR IDEIA EM PRESENÇA.
             </h2>
             <img
               src={camila}

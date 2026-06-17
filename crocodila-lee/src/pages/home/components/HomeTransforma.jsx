@@ -8,21 +8,29 @@ function HomeTransforma() {
       style={{ backgroundColor: "#0c0c0c" }}
     >
       <div className="container py-5">
-        <div className="row align-items-center">
-          <div className="col-md-5 d-flex justify-content-start">
-            <img
-              src={cinema1}
-              className="img-fluid img-perfil-ajuste"
-              alt="Camila Lee"
-            />
-          </div>
+  <div className="row">
 
-          <div className="col-md-7 ps-md-5">
-            <h2 className="display-5 fw-bold text-uppercase ls-5 mb-4 gold-text1">
-              CAMILLA LEE<br/> TORRES<br/> EUFRÁSIO
-            </h2>
+    {/* ESQUERDA */}
+    <div className="col-md-5">
 
-            <div className="gold-text1 fw-light text-justify">
+      {/* TÍTULO */}
+      <h2 className="display-5 fw-bold text-uppercase ls-5 mb-4 gold-text1">
+        CAMILA LEE <br />
+        TORRES <br />
+        EUFRÁSIO
+      </h2>
+
+      {/* IMAGEM */}
+      <img
+        src={cinema1}
+        className="img-fluid img-perfil-ajuste"
+        alt="Camila Lee"
+      />
+    </div>
+
+    {/* DIREITA */}
+    <div className="col-md-7">
+      <div className="gold-text1 fw-light text-justify">
               <p className="lh-lg" style={{ fontSize: "1.1rem" }}>
                 Sou branca, mãe de filha negra de pele clara e cabelos crespos.
                 O desafio de pentear minha filha de forma a fortalecer sua

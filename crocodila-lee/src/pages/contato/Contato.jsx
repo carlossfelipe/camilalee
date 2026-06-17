@@ -123,10 +123,9 @@ const Contato = () => {
               <a href="https://wa.me/5511999999999" target="_blank" rel="noreferrer" className="contact-card d-flex align-items-center justify-content-between p-3 mb-3 text-decoration-none text-white">
                 <div className="d-flex align-items-center gap-3">
                   <FaWhatsapp className="contact-icon" />
-                  <div>
-                    <div className="contact-label text-uppercase text-muted">Whatsapp</div>
+                  
                     <div className="contact-value">+ 55 11 99999-9999</div>
-                  </div>
+                  
                 </div>
                 <FiArrowUpRight className="arrow-icon" />
               </a>
@@ -135,10 +134,10 @@ const Contato = () => {
               <a href="mailto:bbbbbbb@gmail.com" className="contact-card d-flex align-items-center justify-content-between p-3 text-decoration-none text-white">
                 <div className="d-flex align-items-center gap-3">
                   <FaEnvelope className="contact-icon" />
-                  <div>
-                    <div className="contact-label text-uppercase text-muted">E-Mail</div>
+                  
+                  
                     <div className="contact-value">bbbbbbb@gmail.com</div>
-                  </div>
+                  
                 </div>
                 {/* Sem seta no layout da imagem para o email */}
                 <div></div> 
@@ -152,10 +151,9 @@ const Contato = () => {
               <a href="https://instagram.com/crocodila_lee" target="_blank" rel="noreferrer" className="contact-card d-flex align-items-center justify-content-between p-3 text-decoration-none text-white">
                 <div className="d-flex align-items-center gap-3">
                   <FaInstagram className="contact-icon" />
-                  <div>
-                    <div className="contact-label text-uppercase text-muted">Instagram</div>
+                  
                     <div className="contact-value">@crocodila_lee</div>
-                  </div>
+                 
                 </div>
                 <FiArrowUpRight className="arrow-icon" />
               </a>
