@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import logo from "../../../assets/Logo/Mask_group-removebg-preview.png"
 
 function HomeHeader({banner}) {
@@ -10,9 +11,9 @@ function HomeHeader({banner}) {
         <p className="subtitle gold-text2">
           MAQUIAGEM • CABELO • CARACTERIZAÇÃO
         </p>
-        <a href="#" className="btn btn-gold mt-3">
+        <Link to="/noivas" className="btn btn-gold mt-3">
           Conheça o meu portifólio
-        </a>
+        </Link>
       </div>
     </header>
   );
